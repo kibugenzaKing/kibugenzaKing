@@ -2,8 +2,8 @@
 - 👀 I’m interested in flutter, dart
 - 🌱 I’m currently learning, and with 2 years experience
 - 💞️ I’m looking to collaborate on flutter projects
-- 📫 +250785256370 (whatsapp)
-- Email: Kibugenzaking250@gmail.com
+- 📫 [Contact me on WhatsApp](https://wa.me/250785256370?text=please%20contact%20me%20here%20for%20any%20help)
+- [Send me an email](mailto:kibugenzaking250@gmail.com)
 
 --- Back-End Engineer And Front-End Engineer--------
 - I have collaborated on Different Projects, Open Source and Paid
