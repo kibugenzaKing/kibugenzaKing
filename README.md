@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kibugenzaKing
-- 💞️ I’m looking to collaborate on projects and give help where necessary
+- 💞️ I’m looking to collaborate on projects and give help where necessary.
+  
 my website for more info and contacts: 
 [Website LINK](https://king-kibugenza.web.app/)
 
