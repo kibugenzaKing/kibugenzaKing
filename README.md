@@ -23,6 +23,7 @@ Currently focused on creating powerful, efficient software that solves real-worl
 - System-level utilities for Windows
 - Lightweight, portable software solutions
 - Performance-first desktop apps
+- Mobile Apps that make a difference
 
 ---
 
